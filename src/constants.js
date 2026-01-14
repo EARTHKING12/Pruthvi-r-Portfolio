@@ -239,7 +239,7 @@ export const SkillsInfo = [
       image: portfolioLogo,
       tags: ["React JS", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
       github: "https://github.com/EARTHKING12",
-      webapp: "https://github.com/EARTHKING12",
+      webapp: "https://pruthvirajrathod.vercel.app/",
     },
     {
       id: 4,
