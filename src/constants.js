@@ -45,7 +45,7 @@ import nesLogo from './assets/education_logo/nes.png';
 
 // Project Section Logo's
 import EcobinLogo from './assets/work_logo/Ecobin.png';
-import DesktopaLogo from './assets/work_logo/Desktopa.png';
+import DesktopaLogo from './assets/work_logo/desktopa.png';
 import movierecLogo from './assets/work_logo/movie_rec.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
