@@ -238,7 +238,7 @@ export const SkillsInfo = [
         "A responsive and modern personal portfolio website designed to showcase my skills, projects, and experience as a full-stack developer. The website highlights my technical expertise, project work, and contact information in a clean and user-friendly interface.",
       image: portfolioLogo,
       tags: ["React JS", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
-      github: "https://github.com/EARTHKING12",
+      github: "https://github.com/EARTHKING12/Pruthvi-r-Portfolio",
       webapp: "https://pruthvirajrathod.vercel.app/",
     },
     {
