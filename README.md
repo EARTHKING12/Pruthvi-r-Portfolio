@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]()
+🔗 [View Portfolio Live](https://pruthvirajrathod.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone [.]
+git clone [https://github.com/EARTHKING12/Pruthvi-r-Portfolio/tree/main]
 cd your-repo-name
 ````
 
@@ -52,5 +52,5 @@ npm run build
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Pruthviraj Rathod](.).
+This project was created with ❤️ by [Pruthviraj Rathod](https://github.com/EARTHKING12/Pruthvi-r-Portfolio/tree/main).
 If you like it, feel free to ⭐ this repository and share!
